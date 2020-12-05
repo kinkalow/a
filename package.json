@@ -1,0 +1,13 @@
+{
+  "name": "example",
+  "autohr": "a",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "26.1.0"
+  },
+  "dependencies": {
+    "yarn": "^1.22.10"
+  }
+}
